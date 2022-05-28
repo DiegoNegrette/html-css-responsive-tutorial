@@ -1,0 +1,47 @@
+h1 {
+    text-transform: capitalize;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background: #F8F8F8;
+    height: 30vh;
+    width: 90vw;
+    margin: 60px auto;
+}
+
+.title-container {
+    text-align: center;
+    margin: 0;
+}
+
+.title-container h1 {
+    margin: 0;
+    font-family: Lora;
+    font-size: 3.375rem;
+}
+
+.title-container p {
+    text-transform: uppercase;
+    margin: 0;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-right: 20px;
+}
